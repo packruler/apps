@@ -52,6 +52,12 @@ providers:
       # By default this Traefik service
       # pathOverride: ""
 
+# -- Configure Forwarded Headers Support
+forwardedHeaders:
+  enabled: false
+  trustedIPs: []
+  insecureMode: false
+
 # -- Logs
 # https://docs.traefik.io/observability/logs/
 logs:
