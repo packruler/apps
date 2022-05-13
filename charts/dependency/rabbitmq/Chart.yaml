@@ -1,0 +1,30 @@
+apiVersion: v2
+appVersion: "3.10.1"
+dependencies:
+- name: common
+  repository: https://library-charts.truecharts.org
+  version: 9.3.6
+deprecated: false
+description: RabbitMQ is open source message broker software (sometimes called message-oriented middleware) that implements the Advanced Message Queuing Protocol (AMQP). The RabbitMQ server is written in the Erlang programming language and is built on the Open Telecom Platform framework for clustering and failover. Client libraries to interface with the broker are available for all major programming languages.
+home: https://github.com/truecharts/apps/tree/master/charts/dependency/rabbitmq
+icon: https://truecharts.org/_static/img/appicons/rabbitmq.png
+keywords:
+  - messaging
+  - rabbitmq
+kubeVersion: '>=1.16.0-0'
+maintainers:
+- email: info@truecharts.org
+  name: TrueCharts
+  url: https://truecharts.org
+name: mariadb
+sources:
+  - https://github.com/rabbitmq/rabbitmq-server
+  - https://registry.hub.docker.com/_/rabbitmq/
+  - https://www.rabbitmq.com
+type: application
+version: 0.0.1
+annotations:
+  truecharts.org/catagories: |
+    - messaging
+  truecharts.org/SCALE-support: "true"
+  truecharts.org/grade: U
