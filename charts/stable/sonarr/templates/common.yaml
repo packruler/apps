@@ -1,4 +1,3 @@
 {{ include "sonarr.theme" }}
 
 {{ include "common.all" . }}
-
