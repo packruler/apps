@@ -1,0 +1,23 @@
+        - variable: themePark
+          label: "theme.park"
+          schema:
+            additional_attrs: true
+            type: dict
+            attrs:
+              - variable: enabled
+                label: "enabled"
+                schema:
+                  type: boolean
+                  default: false
+                  show_subquestions_if: true
+                  subquestions:
+                    - variable: themeName
+                      label: "Theme Name"
+                      schema:
+                        type: string
+                        required: true
+                        enum:
+                          - value: dark
+                            description: Dark
+                          - value: nord
+                            description: Nord
