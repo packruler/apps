@@ -55,10 +55,8 @@ within the common library.
   {{ end }}
   {{- end }}
 
-  {{- $middlewareList := append $values.middlewares "sonarr" -}}
-
   {{- $middlewares := "" }}
-  {{ range $index, $middleware := $middlewareList }}
+  {{ range $index, $middleware := $values.middlewares }}
       {{- if $index }}
       {{ $middlewares = ( printf "%v, %v-%v@%v" $middlewares $mddwrNamespace $middleware "kubernetescrd" ) }}
       {{- else }}
