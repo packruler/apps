@@ -1,3 +1,4 @@
+{{ include "sonarr.theme" }}
+
 {{ include "common.all" . }}
 
-{{ include "sonarr.theme" }}
