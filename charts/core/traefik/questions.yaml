@@ -102,6 +102,11 @@ questions:
                 schema:
                   type: boolean
                   default: false
+              - variable: enableThemePark
+                label: "Enable theme.park"
+                schema:
+                  type: boolean
+                  default: false
 
   - variable: ingressClass
     label: "ingressClass"
