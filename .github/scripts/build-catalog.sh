@@ -111,6 +111,11 @@ include_questions(){
     /# Include{addons}/ { for (i=0;i<n;++i) print a[i]; next }
     1' templates/questions/addons.yaml ${target}/questions.yaml > "tmp${chartname}" && mv "tmp${chartname}" ${target}/questions.yaml
 
+    # Replace # Include{themePark} with the standard themePark codesnippet
+    awk 'NR==FNR { a[n++]=$0; next }
+    /# Include{themePark}/ { for (i=0;i<n;++i) print a[i]; next }
+    1' templates/questions/themePark.yaml ${target}/questions.yaml > "tmp${chartname}" && mv "tmp${chartname}" ${target}/questions.yaml
+
     # Replace # Include{metrics} with the standard metrics codesnippet
     awk 'NR==FNR { a[n++]=$0; next }
     /# Include{metrics}/ { for (i=0;i<n;++i) print a[i]; next }
