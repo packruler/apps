@@ -35,3 +35,8 @@ persistence:
   config:
     enabled: true
     mountPath: "/config"
+
+ingress:
+  main:
+    middlewares:
+      - sonarr@kubernetescrd
