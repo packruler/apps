@@ -1,6 +1,11 @@
 # Changelog<br>
 
 
+<a name="radarr-11.0.0"></a>
+### [radarr-11.0.0](https://github.com/truecharts/apps/compare/radarr-10.0.20...radarr-11.0.0) (0001-01-01)
+
+
+
 <a name="radarr-10.0.20"></a>
 ### [radarr-10.0.20](https://github.com/truecharts/apps/compare/radarr-10.0.19...radarr-10.0.20) (2022-05-26)
 

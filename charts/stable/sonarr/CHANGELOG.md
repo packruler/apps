@@ -1,6 +1,201 @@
 # Changelog<br>
 
 
+<a name="sonarr-11.0.0"></a>
+### [sonarr-11.0.0](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-11.0.0) (2022-05-28)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (2022-05-28)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (2022-05-28)
+
+
+
+<a name="sonarr-10.1.19"></a>
+### [sonarr-10.1.19](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.19) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.18"></a>
+### [sonarr-10.1.18](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.18) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.17"></a>
+### [sonarr-10.1.17](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.17) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.16"></a>
+### [sonarr-10.1.16](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.16) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.16"></a>
+### [sonarr-10.1.16](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.16) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.15"></a>
+### [sonarr-10.1.15](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.15) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.14"></a>
+### [sonarr-10.1.14](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.14) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.13"></a>
+### [sonarr-10.1.13](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.13) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.12"></a>
+### [sonarr-10.1.12](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.12) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.11"></a>
+### [sonarr-10.1.11](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.11) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.10"></a>
+### [sonarr-10.1.10](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.10) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.9"></a>
+### [sonarr-10.1.9](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.9) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.9"></a>
+### [sonarr-10.1.9](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.9) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.8"></a>
+### [sonarr-10.1.8](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.8) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.8"></a>
+### [sonarr-10.1.8](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.8) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.7"></a>
+### [sonarr-10.1.7](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.7) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.6"></a>
+### [sonarr-10.1.6](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.6) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.5"></a>
+### [sonarr-10.1.5](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.5) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.4"></a>
+### [sonarr-10.1.4](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.4) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.3"></a>
+### [sonarr-10.1.3](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.3) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.2"></a>
+### [sonarr-10.1.2](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.2) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.2"></a>
+### [sonarr-10.1.2](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.2) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.2"></a>
+### [sonarr-10.1.2](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.2) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.1"></a>
+### [sonarr-10.1.1](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.1) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.1"></a>
+### [sonarr-10.1.1](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.1) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.1"></a>
+### [sonarr-10.1.1](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.1) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.0"></a>
+### [sonarr-10.1.0](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.0) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.0"></a>
+### [sonarr-10.1.0](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.0) (2022-05-27)
+
+
+
+<a name="sonarr-10.1.0"></a>
+### [sonarr-10.1.0](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.0) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.0"></a>
+### [sonarr-10.1.0](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.0) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (0001-01-01)
+
+
+
+<a name="sonarr-10.1.20"></a>
+### [sonarr-10.1.20](https://github.com/truecharts/apps/compare/sonarr-10.0.20...sonarr-10.1.20) (0001-01-01)
+
+
+
 <a name="sonarr-10.0.20"></a>
 ### [sonarr-10.0.20](https://github.com/truecharts/apps/compare/sonarr-10.0.19...sonarr-10.0.20) (2022-05-26)
 

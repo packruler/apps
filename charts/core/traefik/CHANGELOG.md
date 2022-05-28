@@ -1,6 +1,206 @@
 # Changelog<br>
 
 
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.2"></a>
+### [traefik-12.0.2](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.2) (2022-05-27)
+
+
+
+<a name="traefik-12.0.1"></a>
+### [traefik-12.0.1](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.1) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (2022-05-27)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
+<a name="traefik-12.0.0"></a>
+### [traefik-12.0.0](https://github.com/truecharts/apps/compare/traefik-11.3.7...traefik-12.0.0) (0001-01-01)
+
+
+
 <a name="traefik-11.3.7"></a>
 ### [traefik-11.3.7](https://github.com/truecharts/apps/compare/traefik-11.3.6...traefik-11.3.7) (2022-05-26)
 
