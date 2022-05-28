@@ -1,4 +1,4 @@
-{{- define "sonarr.theme" -}}
+{{- define "common.theme" -}}
 {{- if .Values.addons.themePark.enabled -}}
 
 {{- $serviceName := include "common.names.fullname" . -}}
