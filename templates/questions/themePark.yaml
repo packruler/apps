@@ -17,7 +17,67 @@
                         type: string
                         required: true
                         enum:
+                          - value: organizr
+                            description: Organizr
                           - value: dark
                             description: Dark
+                          - value: dracula
+                            description: Dracula
+                          - value: aquamarine
+                            description: Aquamarine
+                          - value: space-gray
+                            description: Space Gray
+                          - value: plex
+                            description: Plex
+                          - value: hotline
+                            description: Hotline
+                          - value: hotpink
+                            description: Hotpink
+                          - value: overseerr
+                            description: Overseerr
                           - value: nord
                             description: Nord
+                          - value: hotline-old
+                            description: Hotline-Old
+                          - value: mind
+                            description: Mind
+                          - value: onedark
+                            description: Onedark
+                          - value: pine-shadow
+                            description: Pine-Shadow
+                          - value: power
+                            description: Power
+                          - value: reality
+                            description: Reality
+                          - value: soul
+                            description: Soul
+                          - value: space
+                            description: Space
+                          - value: time
+                            description: Time
+                          - value: trueblack
+                            description: Trueblack
+                          - value: blackberry-abyss
+                            description: Blackberry Abyss
+                          - value: blackberry-amethyst
+                            description: Blackberry Amethyst
+                          - value: blackberry-carol
+                            description: Blackberry Carol
+                          - value: blackberry-dreamscape
+                            description: Blackberry Dreamscape
+                          - value: blackberry-flamingo
+                            description: Blackberry Flamingo
+                          - value: blackberry-hearth
+                            description: Blackberry Hearth
+                          - value: blackberry-martian
+                            description: Blackberry Martian
+                          - value: blackberry-pumpkin
+                            description: Blackberry Pumpkin
+                          - value: blackberry-royal
+                            description: Blackberry Royal
+                          - value: blackberry-shadow
+                            description: Blackberry Shadow
+                          - value: blackberry-solar
+                            description: Blackberry Solar
+                          - value: blackberry-vanta
+                            description: Blackberry Vanta
