@@ -3,16 +3,15 @@
 
 {{- $serviceName := include "common.names.fullname" . -}}
 
-{{- $middlewareName := printf "%v-theme" $serviceName -}}
-
 {{- $appName := .Chart.Name -}}
 {{- $themeName := .Values.addons.themePark.themeName -}}
+{{- $_ := set .Values.addons.themePark "middlewareReference" ( printf "%s-theme@kubernetescrd" .Release.Namespace ) }}
 
 ---
 apiVersion: traefik.containo.us/v1alpha1
 kind: Middleware
 metadata:
-  name: sonarr
+  name: theme
 spec:
   plugin:
     themePark:

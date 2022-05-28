@@ -70,6 +70,16 @@ within the common library.
       {{ $middlewares = ( printf "%s" $fixedMiddlewares ) }}
   {{ end }}
 
+  {{- with .Values.addons.themePark -}}
+    {{- if .enabled }}
+      {{- if $middlewares }}
+        {{ $middlewares = printf "%s, %s" $middlewares .middlewareReference }}
+      {{- else }}
+        {{ $middlewares = printf "%s" .middlewareReference }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
 ---
 apiVersion: {{ include "common.capabilities.ingress.apiVersion" . }}
 kind: Ingress
