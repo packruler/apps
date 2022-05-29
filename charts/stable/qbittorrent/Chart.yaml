@@ -20,7 +20,7 @@ name: qbittorrent
 sources:
 - https://github.com/qbittorrent/qBittorrent
 type: application
-version: 10.0.21
+version: 11.0.0
 annotations:
   truecharts.org/catagories: |
     - media
