@@ -340,3 +340,4 @@ persistence:
   plugins:
     enabled: true
     mountPath: "/plugins-storage"
+    type: emptyDir
