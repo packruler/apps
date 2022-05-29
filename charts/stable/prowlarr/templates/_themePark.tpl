@@ -16,4 +16,4 @@ spec:
       theme: {{ $themeName }}
 
 {{- end -}}
-{{- end -}}
+{{- end }}

@@ -74,7 +74,7 @@ within the common library.
       {{ $middlewares = printf "%s" $middlewareReference }}
     {{- end }}
     {{/* include theme.park middleware generation */}}
-    {{- include "common.classes.themePark" . -}}
+    {{ ( include "common.classes.themePark" . ) | nindent 0 }}
   {{- end }}
 
 ---
