@@ -1,6 +1,5 @@
 {{/* Make sure all variables are set properly */}}
 
-{{- include "traefik.plugins.setup" . }}
 {{- include "common.setup" . }}
 
 {{- if .Values.metrics }}
