@@ -64,16 +64,17 @@ within the common library.
   {{- else if $fixedMiddlewares }}
       {{ $middlewares = ( printf "%s" $fixedMiddlewares ) }}
   {{ end }}
-  
-  {{- with .Values.addons.themePark -}}
-    {{- if .enabled }}
-      {{/* append the middlewareReference to any additional middleware */}}
-      {{- if $middlewares }}
-        {{ $middlewares = printf "%s, %s" $middlewares .middlewareReference }}
-      {{- else }}
-        {{ $middlewares = printf "%s" .middlewareReference }}
-      {{- end }}
+
+  {{- if .Values.addons.themePark.enabled }}
+    {{/* append the middlewareReference to any additional middleware */}}
+    {{- $middlewareReference := .Values.addons.themePark.middlewareReference -}}
+    {{- if $middlewares }}
+      {{ $middlewares = printf "%s, %s" $middlewares $middlewareReference }}
+    {{- else }}
+      {{ $middlewares = printf "%s" $middlewareReference }}
     {{- end }}
+    {{/* include theme.park middleware generation */}}
+    {{- include "common.classes.themePark" . -}}
   {{- end }}
 
 ---
