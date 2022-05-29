@@ -1,11 +1,8 @@
-{{- define "common.theme" -}}
+{{- define "common.classes.themePark" -}}
 {{- if .Values.addons.themePark.enabled -}}
-
-{{- $serviceName := include "common.names.fullname" . -}}
 
 {{- $appName := .Chart.Name -}}
 {{- $themeName := .Values.addons.themePark.themeName -}}
-{{- $_ := set .Values.addons.themePark "middlewareReference" ( printf "%s-theme@kubernetescrd" .Release.Namespace ) }}
 
 ---
 apiVersion: traefik.containo.us/v1alpha1

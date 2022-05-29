@@ -13,11 +13,6 @@ within the common library.
     {{- end -}}
   {{ end -}}
 
-  {{- $themed := false -}}
-  {{- if .Values.addons.themePark.enabled -}}
-    {{- $themed = true -}}
-  {{- end -}}
-
   {{- if and (hasKey $values "nameOverride") $values.nameOverride -}}
     {{- $ingressName = printf "%v-%v" $ingressName $values.nameOverride -}}
   {{- end -}}
@@ -41,7 +36,7 @@ within the common library.
 
   {{- $mddwrNamespace := "default" }}
   {{- if $values.ingressClassName }}
-  {{- $mddwrNamespace := ( printf "ix-%s" $values.ingressClassName ) }}
+  {{- $mddwrNamespace = ( printf "ix-%s" $values.ingressClassName ) }}
   {{- end }}
 
   {{- $fixedMiddlewares := "" }}
@@ -70,14 +65,16 @@ within the common library.
       {{ $middlewares = ( printf "%s" $fixedMiddlewares ) }}
   {{ end }}
 
-  {{- with .Values.addons.themePark -}}
-    {{- if .enabled }}
-      {{- if $middlewares }}
-        {{ $middlewares = printf "%s, %s" $middlewares .middlewareReference }}
-      {{- else }}
-        {{ $middlewares = printf "%s" .middlewareReference }}
-      {{- end }}
+  {{- if .Values.addons.themePark.enabled }}
+    {{/* append the middlewareReference to any additional middleware */}}
+    {{- $middlewareReference := .Values.addons.themePark.middlewareReference -}}
+    {{- if $middlewares }}
+      {{ $middlewares = printf "%s, %s" $middlewares $middlewareReference }}
+    {{- else }}
+      {{ $middlewares = printf "%s" $middlewareReference }}
     {{- end }}
+    {{/* include theme.park middleware generation */}}
+    {{- include "common.classes.themePark" . -}}
   {{- end }}
 
 ---
