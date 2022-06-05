@@ -10,6 +10,7 @@
   "pinDigests": true,
   "timezone":"Europe/Amsterdam",
   "gitAuthor": "TrueCharts-Bot <bot@truecharts.org>",
+  "includeForks": true,
   "helm-values": {
     "fileMatch": ["charts/.+/.*values\\.yaml$", "charts/.+/SCALE/.*_values\\.yaml$"]
   },

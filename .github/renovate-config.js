@@ -7,6 +7,7 @@ module.exports = {
   repositories: [
     'packruler/apps',
   ],
+  includeForks: true,
   packageRules: [
     {
       description: 'lockFileMaintenance',
