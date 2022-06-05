@@ -38,7 +38,7 @@
     {
       "datasources": ["docker"],
       "matchManagers": ["helm-values"],
-      "enabled": true,
+      "enabled": false,
       "pinDigests": true,
       "commitMessageTopic": "container image {{depName}}",
       "commitMessageExtra": "to {{#if isSingleVersion}}v{{{newVersion}}}{{else}}{{{newValue}}}{{/if}}",
@@ -50,6 +50,7 @@
     {
       "matchDatasources": ["helm"],
       "updateTypes": ["major"],
+      "enabled": false,
       "automerge": false,
       "bumpVersion": "major",
       "labels": ["update/helm/dependency/major"],
@@ -59,6 +60,7 @@
     {
       "matchDatasources": ["helm"],
       "automerge": true,
+      "enabled": false,
       "matchUpdateTypes": [
         "minor",
         "patch"
@@ -75,6 +77,7 @@
       "matchDatasources": ["helm"],
       "updateTypes": ["major"],
       "bumpVersion": "major",
+      "enabled": false,
       "labels": ["update/helm/general/major"],
       "groupName": ["helm general major"],
       "paths": ["charts/incubator/", "charts/games/", "charts/dev/", "charts/enterprise/", "charts/stable/", "charts/core/", "templates/app/"],
@@ -85,6 +88,7 @@
     {
       "matchDatasources": ["helm"],
       "automerge": true,
+      "enabled": false,
       "matchUpdateTypes": [
         "minor",
         "patch"
@@ -102,6 +106,7 @@
     //
     {
       "matchDatasources": ["docker"],
+      "enabled": false,
       "updateTypes": ["major"],
       "bumpVersion": "major",
       "labels": ["update/docker/enterprise/major"],
@@ -113,6 +118,7 @@
     {
       "matchDatasources": ["docker"],
       "automerge": true,
+      "enabled": false,
       "matchUpdateTypes": [
         "minor",
       ],
@@ -127,6 +133,7 @@
     {
       "matchDatasources": ["docker"],
       "automerge": true,
+      "enabled": false,
       "matchUpdateTypes": [
         "patch",
         "digest",
@@ -147,6 +154,7 @@
       "matchDatasources": ["docker"],
       "updateTypes": ["major"],
       "bumpVersion": "minor",
+      "enabled": false,
       "labels": ["update/docker/general/major"],
       "paths": ["charts/dependency/", "charts/games/", "charts/incubator/", "charts/dev/", "charts/library/", "charts/stable/", "charts/core/", "templates/app/"],
       "schedule": [
@@ -156,6 +164,7 @@
     {
       "matchDatasources": ["docker"],
       "automerge": true,
+      "enabled": false,
       "matchUpdateTypes": [
         "minor",
         "patch",
