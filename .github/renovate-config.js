@@ -1,11 +1,11 @@
 module.exports = {
-  dryRun: false,
+  dryRun: true,
   username: 'truecharts-bot',
   gitAuthor: 'truecharts-bot <bot@truecharts.org>',
   onboarding: false,
   platform: 'github',
   repositories: [
-    'truecharts/apps',
+    'packruler/apps',
   ],
   packageRules: [
     {

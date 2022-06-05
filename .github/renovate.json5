@@ -16,6 +16,16 @@
   "helmv3": {
     "fileMatch": ["charts/.+/Chart\\.yaml$"]
   },
+  "regexManagers": [
+    {
+      "datasourceTemplate": "github-releases",
+      "fileMatch": "^charts/core/traefik/templates/_args.tpl$",
+      "matchStrings": [
+        "^\s*- \"--experimental\.plugins\.(\w*).modulename=github.com\/(?<depName>\S*)\"\s*- \"--experimental\.plugins\.(\w*)\.version=(?<currentValue>v(\d\.?)*)",
+      ],
+      "versioningTemplate": "semver-coerced"
+    }
+  ],
   "packageRules": [
     // Setup datasources for dep updates
     {
@@ -155,6 +165,21 @@
       "labels": ["update/docker/general/non-major"],
       "groupName": ["docker general non-major"],
       "paths": ["charts/dependency/",  "charts/games/", "charts/incubator/", "charts/dev/", "charts/library/", "charts/stable/", "charts/core/", "templates/app/"],
+      "schedule": [
+        "before 8am"
+      ],
+    },
+    {
+      "matchDatasources": ["github-releases"],
+      "matchManagers": ["regex"],
+      "automerge": true,
+      "matchUpdateTypes": [
+        "minor",
+        "patch",
+      ],
+      "bumpVersion": "patch",
+      "labels": ["update/traefik/plugin/non-major"],
+      "groupName": ["traefik plugin non-major"],
       "schedule": [
         "before 8am"
       ],
