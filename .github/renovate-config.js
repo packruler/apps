@@ -1,5 +1,4 @@
 module.exports = {
-  dryRun: true,
   username: 'truecharts-bot',
   gitAuthor: 'truecharts-bot <bot@truecharts.org>',
   onboarding: false,
