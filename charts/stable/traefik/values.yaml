@@ -16,6 +16,7 @@ ingressClass:
 pilot:
   enabled: false
   token: ""
+  enableThemePark: false
   # Toggle Pilot Dashboard
   # dashboard: false
 
@@ -336,3 +337,9 @@ middlewares:
 
 portalhook:
   enabled: true
+
+persistence:
+  plugins:
+    enabled: true
+    mountPath: "/plugins-storage"
+    type: emptyDir
