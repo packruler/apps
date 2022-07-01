@@ -146,9 +146,9 @@ args:
   {{- end }}
   {{- if hasKey .Values.pilot "dashboard" }}
   - "--pilot.dashboard={{ .Values.pilot.dashboard }}"
-  {{- if .Values.pilot.enableThemePark }}
+  {{- if .Values.middlewares.enableThemePark }}
   - "--experimental.plugins.themePark.modulename=github.com/packruler/traefik-themepark"
-  - "--experimental.plugins.themePark.version=v1.0.0"
+  - "--experimental.plugins.themePark.version=v1.1.0"
   {{- end }}
   {{- end }}
   {{- with .Values.additionalArguments }}
