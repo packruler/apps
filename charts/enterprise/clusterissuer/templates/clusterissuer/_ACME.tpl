@@ -80,7 +80,6 @@ spec:
 apiVersion: v1
 kind: Secret
 metadata:
-  namespace: cert-manager
   name: {{ $issuerSecretName }}
 type: Opaque
 stringData:
